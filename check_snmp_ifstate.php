@@ -2,7 +2,7 @@
 <?php
 ###########################################
 #
-# Interfacecounter checkscript for nagios
+# Interfacecounter checkscript for nagios/icinga
 # Written by Kai Zemke
 # 22.10.2015
 #
