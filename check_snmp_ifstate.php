@@ -4,21 +4,11 @@
 #
 # Interfacecounter checkscript for nagios
 # Written by Kai Zemke
-# 18.08.2007
-# Published under: Do whatever the fuck you like, but don't bother me licence
+# 22.10.2015
 #
 ##########################################
-
 $argCount=$argc;
 $scriptName=$argv[0];
-#$host=$argv[1];
-#$community=$argv[2];
-#$ifIndex=$argv[3];
-#######
-#0 for 32 bit counter / 1 for 64 bit counter
-#######
-#$countertype=$argv[4];
-$debug="0";
 #######
 #Oid's
 #######
